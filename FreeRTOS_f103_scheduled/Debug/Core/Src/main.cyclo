@@ -1,0 +1,10 @@
+../Core/Src/main.c:78:5:main	1
+../Core/Src/main.c:160:6:SystemClock_Config	4
+../Core/Src/main.c:207:13:MX_I2C1_Init	2
+../Core/Src/main.c:241:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:274:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:StartReadMPU6050	1
+../Core/Src/main.c:331:6:StartCalculatePID	1
+../Core/Src/main.c:350:6:StartControllESC	1
+../Core/Src/main.c:370:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:387:6:Error_Handler	1
